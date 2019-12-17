@@ -1,3 +1,6 @@
+> **NOTE:<br/>**
+> This repo is not being maintained anymore
+
 Selenium 2.0 builds with its own build technology that's good for Windows, Linux and Mac.
 
 # Quick intro
